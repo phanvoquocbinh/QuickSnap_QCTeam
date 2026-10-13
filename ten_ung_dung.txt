@@ -1,0 +1,4 @@
+# Ten hien thi cua ung dung (thanh tieu de, cua so chinh, khay he thong, ten file anh/video).
+# Sua dong ben duoi roi luu file, sau do thoat han app va mo lai. Co the go tieng Viet co dau.
+# Cac dong bat dau bang dau # se bi bo qua.
+QuickSnap_QCTeam

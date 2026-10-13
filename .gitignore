@@ -1,0 +1,18 @@
+# Moi truong Python
+.venv/
+__pycache__/
+*.pyc
+
+# Ban build / portable (qua lon cho git)
+build/
+dist/
+*.spec
+QuickSnap_Portable/
+QuickSnap_QCTeam_Portable/
+*.zip
+*.rar
+runtime/
+
+# File rac
+ziMM6tvb
+Thumbs.db
